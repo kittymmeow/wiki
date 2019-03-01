@@ -1,4 +1,4 @@
-var action = {
+var actions = {
     protect: [{
             page: "Template:Publisher",
             summary: "Standard practice"
@@ -119,3 +119,4 @@ var action = {
 		page:"Project:Admin noticeboard"
 	}]
 };
+export default;
