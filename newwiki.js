@@ -119,4 +119,4 @@ var actions = {
 		page:"Project:Admin noticeboard"
 	}]
 };
-module.export.actions = actions;
+export default;
