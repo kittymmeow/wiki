@@ -119,4 +119,3 @@ var actions = {
 		page:"Project:Admin noticeboard"
 	}]
 };
-export default;
